@@ -1,0 +1,16 @@
+3.2_icon.py
+#29
+self.setWindowIcon(QIcon('web.png'))
+
+3.4_quitbutton.py
+#29
+qbtn.resize(qbtn.sizeHint())
+
+4.2 ~ 4.7
+menus
+
+7.4_filedialog.py
+menu
+
+---
+8.1부터는 아직
